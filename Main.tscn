@@ -138,6 +138,9 @@ position = Vector2(357, 118)
 [node name="Ball2" parent="." instance=ExtResource("2")]
 position = Vector2(253, 226)
 
+[node name="Ball3" parent="." instance=ExtResource("2")]
+position = Vector2(124, 192)
+
 [node name="Ball4" parent="." instance=ExtResource("2")]
 position = Vector2(731, 250)
 
@@ -146,6 +149,3 @@ position = Vector2(637, 129)
 
 [node name="Ball6" parent="." instance=ExtResource("2")]
 position = Vector2(791, 88)
-
-[node name="Ball3" parent="." instance=ExtResource("2")]
-position = Vector2(124, 192)
