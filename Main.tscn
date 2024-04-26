@@ -133,7 +133,8 @@ rotation = 1.5708
 shape = SubResource("2")
 
 [node name="Ball" parent="." instance=ExtResource("2")]
-position = Vector2(357, 118)
+position = Vector2(213, 92)
+gravity_scale = 10.0
 
 [node name="Ball2" parent="." instance=ExtResource("2")]
 position = Vector2(253, 226)
